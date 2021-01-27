@@ -336,6 +336,9 @@ globalkeys = gears.table.join(
     awful.key({ modkey, "Shift"   }, "q", awesome.quit,
               {description = "quit awesome", group = "awesome"}),
 
+
+    awful.key({ modkey,           }, "o", function ()   awful.spawn.with_shell("~/.scripts/toggle_alsa_port.sh") end,
+              {description = "toggle between headphone and speaker outpu", group = "launcher"}),
     awful.key({ modkey,           }, "l",     function () awful.tag.incmwfact( 0.05)                 end,
               {description = "increase master width factor", group = "layout"}),
     awful.key({ modkey,           }, "h",     function () awful.tag.incmwfact(-0.05)                 end,
