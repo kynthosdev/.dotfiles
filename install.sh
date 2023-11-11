@@ -1,77 +1,39 @@
-# SETUP NIX 
-# Install Nix package manager
-#sh <(curl -L https://nixos.org/nix/install) --daemon
-
-# Source Nix
-#if [ -e '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh' ]; then
-#  . '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh'
-#fi
-
-#nix-shell -p nix-info --run "nix-info -m"
-
-# Install packages through Nix
-#nix-env -iA \
-#	nixpkgs.stow \
-#	nixpkgs.bat \
-#	nixpkgs.kitty \
-#	nixpkgs.zsh \
-#	nixpkgs.antibody \
-#	nixpkgs.neovim
-
 ####  INSTALL PACKAGES  ####
-# Update system
-sudo pacman -Syu
-
-
 # Install packages and dependencies
 sudo pacman --noconfirm -Sy \
+	awesome \
+	sddm \
 	stow \
 	bat \
 	kitty \
 	zsh \
 	neovim \
 	maim \
-  unzip \
+        unzip \
 	ranger \
-	dolphin \
-	kwallet-pam \
-	ttf-meslo-nerd \
-	ttf-jetbrains-mono-nerd \
-	libvirt qemu-full virt-manager x11-ssh-askpass \
-  freecad
+	ttf-meslo-nerd-font-powerlevel10k \
+	ttf-jetbrains-mono-nerd
+	#kwallet-pam \
+	#libvirt qemu-full virt-manager x11-ssh-askpass \
+        #freecad
 
 
 # Install packages from AUR
-paru -S \
-	arcolinux_repo_3party/kwin-bismuth \
-	plasma5-applets-virtual-desktop-bar-git \
-	lightly-git \
-	lightlyshaders-git \
-	ttf-google-sans  \
-  autofs
-
 
 # Install packages via install scripts
 curl -sfL git.io/antibody | sudo sh -s - -b /usr/local/bin
-
-
 
 ####  CONFIGURATION DEFAULTS   ####
 # Stow all packages and restore after --adopt
 echo "Stowing packages ...."
 stow --adopt \
 	zsh \
+	nvim \
 	kitty \
-	kde-base-config \
-	dolphin \
 	neofetch \
-	paru \
-	plasma \
-	kwallet \
-	themes
+	paru
+	#kwallet
 
-echo "Restore git files after stow --adopt"
-git restore .
 
 # Git global settings
 echo "Set git global settings"
@@ -88,14 +50,15 @@ antibody bundle < ~/.zsh_plugins.txt > ~/.zsh_plugins.sh
 
 # Enable services
 echo "Enable services"
-sudo systemctl enable libvirtd.service
+sudo systemctl enable sddm.service
 
 # Add user to groups
-echo "Add user to groups"
-sudo usermod -aG libvirt $USER
+# echo "Add user to groups"
+# sudo usermod -aG libvirt $USER
 
 # *keep last* Use zsh as default shell
 sudo chsh -s $(which zsh) $USER
 
-# Install program configs
-# git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+# System clean up
+echo "Restore git files after stow --adopt"
+git restore .
