@@ -1,0 +1,10 @@
+#robbyrussel/oh-my-zsh path:plugins/colored-man-pages
+#robbyrussel/oh-my-zsh path:plugins/command-not-found
+#robbyrussel/oh-my-zsh path:plugins/git
+#robbyrussel/oh-my-zsh path:plugins/git-extras
+
+romkatv/powerlevel10k
+
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+zsh-users/zsh-syntax-highlighting
