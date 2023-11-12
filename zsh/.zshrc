@@ -111,6 +111,7 @@ alias nneofetch="$EDITOR ~/.config/neofetch/config.conf"
 alias nkitty="$EDITOR ~/.config/kitty/kitty.conf"
 alias nplymouth="sudo $EDITOR /etc/plymouth/plymouthd.conf"
 alias nvconsole="sudo $EDITOR /etc/vconsole.conf"
+alias na="$EDITOR ~/.config/awesome/rc.lua"
 
 #git
 alias rmgitcache="rm -r ~/.cache/git"

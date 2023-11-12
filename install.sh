@@ -1,24 +1,41 @@
-####  INSTALL PACKAGES  ####
+##### TODO #####
+# xbacklight: Adjusting screen brightness on laptop
+# pnmixer: Audio tray
+
+
+#####  INSTALL PACKAGES  ####
 # Install packages and dependencies
 sudo pacman --noconfirm -Sy \
 	awesome \
 	sddm \
+  firefox \
 	stow \
 	bat \
 	kitty \
 	zsh \
 	neovim \
 	maim \
-        unzip \
+  unzip \
 	ranger \
 	ttf-meslo-nerd-font-powerlevel10k \
-	ttf-jetbrains-mono-nerd
+  ttf-roboto \
+	ttf-jetbrains-mono-nerd \
+  rofi \
+  picom \
+  xclip \
+  materia-theme \
+  lxappearance \
+  xfce4-power-manager \
+  papirus-icon-theme \
+  capitaine-cursors
 	#kwallet-pam \
 	#libvirt qemu-full virt-manager x11-ssh-askpass \
         #freecad
 
 
 # Install packages from AUR
+paru -Sy --noconfirm \
+  i3lock-fancy
 
 # Install packages via install scripts
 curl -sfL git.io/antibody | sudo sh -s - -b /usr/local/bin
@@ -29,16 +46,23 @@ echo "Stowing packages ...."
 stow --adopt \
 	zsh \
 	nvim \
+  awesome \
+  gtkrc-2.0 \
+  gtk-2.0 \
+  gtk-3.0 \
+  ranger \
 	kitty \
 	neofetch \
 	paru
 	#kwallet
 
-
 # Git global settings
 echo "Set git global settings"
 git config --global user.email "kynthosdevelopment@gmail.com"
 git config --global user.name "kynthosdev"
+
+# SSH keygen
+ssh-keygen -t ed25519
 
 ###   CONFIGURE PACKAGES   ####
 ##  ZSH  ##
@@ -56,9 +80,11 @@ sudo systemctl enable sddm.service
 # echo "Add user to groups"
 # sudo usermod -aG libvirt $USER
 
-# *keep last* Use zsh as default shell
-sudo chsh -s $(which zsh) $USER
-
 # System clean up
 echo "Restore git files after stow --adopt"
 git restore .
+
+
+# *keep last* Use zsh as default shell
+sudo chsh -s $(which zsh) $USER
+
