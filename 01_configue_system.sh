@@ -5,7 +5,8 @@ sleep 1
 stow --adopt \
 	zsh \
 	nvim \
-  	awesome \
+ 	awesome \
+  dolphin \
 	kitty \
 	neofetch \
 	paru
