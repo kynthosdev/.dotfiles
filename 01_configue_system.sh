@@ -11,7 +11,6 @@ stow --adopt \
 	neofetch \
 	paru
 
-
 # Git global settings
 echo "Set git global settings ...."
 sleep 1
@@ -42,6 +41,12 @@ sudo systemctl enable sddm.service
 # Add user to groups
 echo "Add user to groups ...."
 sudo usermod -aG libvirt $USER
+
+# This is specific to devices - find script that mounts based on available devices 
+echo "Mount storage device ..."
+sleep 1
+echo "UUID=d80ce190-f301-4628-a9e3-26c30ca2421f /mnt              ext4    defaults,noatime 0 1" | sudo tee -a /etc/fstab
+
 
 
 # *keep last* Use zsh as default shell
