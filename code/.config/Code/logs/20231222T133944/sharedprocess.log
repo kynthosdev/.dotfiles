@@ -1,0 +1,14 @@
+2023-12-23 09:48:54.471 [info] Getting Manifest... vscodevim.vim
+2023-12-23 09:48:54.490 [info] Installing extension: vscodevim.vim
+2023-12-23 09:48:55.516 [warning] Extension signature verification failed with error 'UnknownError': vscodevim.vim
+2023-12-23 09:48:55.557 [info] Extracted extension to file:///home/stickee/.vscode/extensions/vscodevim.vim-1.27.2: vscodevim.vim
+2023-12-23 09:48:55.562 [info] Renamed to /home/stickee/.vscode/extensions/vscodevim.vim-1.27.2
+2023-12-23 09:48:55.563 [info] Extracting extension completed. vscodevim.vim
+2023-12-23 09:48:55.570 [info] Extension installed successfully: vscodevim.vim
+2023-12-23 09:48:55.646 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

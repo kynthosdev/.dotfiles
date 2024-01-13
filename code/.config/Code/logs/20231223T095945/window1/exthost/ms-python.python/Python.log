@@ -1,0 +1,27 @@
+2023-12-23 09:59:47.494 [info] Experiment 'pythonaacf' is active
+2023-12-23 09:59:47.494 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-23 09:59:47.494 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-23 09:59:47.494 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-23 09:59:47.494 [info] Experiment 'pythonTestAdapter' is active
+2023-12-23 09:59:47.494 [info] Default formatter is set to null for workspace /mnt/Kynthos Development/chrmndr
+2023-12-23 09:59:47.494 [info] Test server listening.
+2023-12-23 09:59:47.494 [info] Python interpreter path: ./.venv/bin/python
+2023-12-23 09:59:47.541 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-23 09:59:47.579 [info] > conda info --json
+2023-12-23 09:59:47.611 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-23 09:59:47.611 [info] shell: bash
+2023-12-23 09:59:48.598 [info] Starting Pylance language server.
+2023-12-23 09:59:50.541 [info] Shell integration is not working for zsh
+2023-12-23 09:59:50.541 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-23 09:59:50.550 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-23 09:59:50.550 [info] shell: zsh
+2023-12-23 09:59:50.577 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-23 09:59:50.577 [info] shell: zsh
+2023-12-23 09:59:50.595 [info] Send text to terminal: /bin/python /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariablesToFile.py /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/deactivate/zsh/envVars.txt
+2023-12-23 10:02:40.256 [info] Discover tests for workspace name: undefined - uri: /home/stickee/.config/Code/User/settings.json
+2023-12-23 10:03:28.246 [info] Discover tests for workspace name: undefined - uri: /home/stickee/.config/Code/User/settings.json
+2023-12-23 11:30:05.844 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 11:31:21.201 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/player.py
+2023-12-23 11:36:00.316 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 11:40:10.221 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/utils.py
+2023-12-23 11:42:36.819 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/utils.py

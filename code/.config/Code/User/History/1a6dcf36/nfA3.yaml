@@ -1,0 +1,7 @@
+services:
+  server:
+    build:
+      image: prepross:0.1
+      context: .
+    ports:
+      - 8000:8000

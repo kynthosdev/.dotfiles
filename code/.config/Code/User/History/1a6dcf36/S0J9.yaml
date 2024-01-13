@@ -1,0 +1,8 @@
+services:
+  server:
+    container_name: prepross
+    image: prepross:0.1
+    build:
+      context: .
+    ports:
+      - 8000:8000

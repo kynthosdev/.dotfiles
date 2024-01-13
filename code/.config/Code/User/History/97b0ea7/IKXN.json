@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.startupEditor": "none",
+    "git.confirmSync": false,
+    "vim.smartRelativeLine": true,
+    "window.zoomLevel": -1,
+    "vim.handleKeys": {
+        "<C-p>": false,
+    }
+}

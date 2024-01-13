@@ -1,0 +1,26 @@
+2023-12-20 21:21:52.386 [info] Experiment 'pythonaacf' is active
+2023-12-20 21:21:52.386 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-20 21:21:52.386 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-20 21:21:52.386 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-20 21:21:52.386 [info] Experiment 'pythonTestAdapter' is active
+2023-12-20 21:21:52.386 [info] Default formatter is set to null for workspace /mnt/Kynthos Development/chrmndr
+2023-12-20 21:21:52.386 [info] Test server listening.
+2023-12-20 21:21:52.386 [info] Python interpreter path: ./.venv/bin/python
+2023-12-20 21:21:52.560 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-20 21:21:54.080 [info] Starting Pylance language server.
+2023-12-20 21:21:55.561 [info] Shell integration is not working for zsh
+2023-12-20 21:21:55.562 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-20 21:21:55.573 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-20 21:21:55.573 [info] shell: zsh
+2023-12-20 21:21:55.619 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-20 21:21:55.619 [info] shell: zsh
+2023-12-20 21:21:55.640 [info] Send text to terminal: /bin/python /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariablesToFile.py /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/deactivate/zsh/envVars.txt
+2023-12-20 21:21:57.677 [info] > conda info --json
+2023-12-20 21:21:57.789 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-20 21:21:57.789 [info] shell: bash
+2023-12-20 21:25:24.994 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-20 21:40:51.501 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-20 21:40:58.094 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-20 21:41:35.323 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-20 21:42:15.188 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/actions.py
+2023-12-20 21:47:22.425 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py

@@ -1,0 +1,12 @@
+Visual Studio Code (1.85.1, undefined, desktop)
+Jupyter Extension Version: 2023.11.1003402403.
+Python Extension Version: 2023.22.1.
+Pylance Extension Version: 2023.12.1.
+Platform: linux (x64).
+Workspace folder /mnt/Kynthos Development/chrmndr, Home = /home/stickee
+09:59:47.204 [info] Start refreshing Kernel Picker (1703318387204)
+09:59:47.212 [info] Using Pylance
+09:59:47.676 [info] Process Execution: /mnt/Kynthos Development/chrmndr/.venv/bin/python -m pip list
+09:59:48.274 [info] End refreshing Kernel Picker (1703318387204)
+12:55:11.108 [info] Disposing HostJupyterExecution
+12:55:11.108 [info] Disposing HostJupyterExecution

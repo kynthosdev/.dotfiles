@@ -1,0 +1,150 @@
+2023-12-22 13:39:45.869 [info] Experiment 'pythonaacf' is active
+2023-12-22 13:39:45.869 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-22 13:39:45.869 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-22 13:39:45.869 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-22 13:39:45.869 [info] Experiment 'pythonTestAdapter' is active
+2023-12-22 13:39:45.869 [info] Default formatter is set to null for workspace /mnt/Kynthos Development/chrmndr
+2023-12-22 13:39:45.869 [info] Test server listening.
+2023-12-22 13:39:45.869 [info] Python interpreter path: ./.venv/bin/python
+2023-12-22 13:39:46.181 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-22 13:39:46.274 [info] > conda info --json
+2023-12-22 13:39:46.298 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-22 13:39:46.298 [info] shell: bash
+2023-12-22 13:39:47.319 [info] Starting Pylance language server.
+2023-12-22 13:39:49.181 [info] Shell integration is not working for zsh
+2023-12-22 13:39:49.182 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-22 13:39:49.189 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-22 13:39:49.189 [info] shell: zsh
+2023-12-22 13:39:49.216 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-22 13:39:49.216 [info] shell: zsh
+2023-12-22 13:39:49.233 [info] Send text to terminal: /bin/python /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariablesToFile.py /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/deactivate/zsh/envVars.txt
+2023-12-22 13:44:59.537 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 13:48:50.307 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 13:49:09.275 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 13:49:19.077 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/actions.py
+2023-12-22 13:50:12.080 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 13:50:15.564 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 13:51:30.192 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/actions.py
+2023-12-22 13:51:33.599 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/actions.py
+2023-12-22 13:59:40.281 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:00:37.363 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:04:10.926 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 14:05:22.378 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 14:05:35.519 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 14:07:09.978 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:07:40.949 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 14:08:23.667 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 14:17:06.193 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:17:55.028 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:19:41.770 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:19:54.518 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:20:11.156 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:20:50.279 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:23:04.358 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/actions.py
+2023-12-22 14:23:30.329 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 14:23:33.592 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 14:24:11.079 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:24:25.062 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:25:10.422 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/actions.py
+2023-12-22 14:26:34.506 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 14:58:32.330 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 15:00:05.573 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 15:00:35.959 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 15:00:46.844 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 15:30:05.947 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 15:38:18.896 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 15:38:35.776 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/actions.py
+2023-12-22 15:39:24.445 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 15:39:52.131 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 22:20:48.207 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/ability.py
+2023-12-22 22:23:25.303 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:23:48.062 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game.py
+2023-12-22 22:24:04.652 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:24:16.312 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:25:16.704 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_ability.py
+2023-12-22 22:27:55.318 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_game.py
+2023-12-22 22:30:16.729 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_game.py
+2023-12-22 22:30:27.715 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_game.py
+2023-12-22 22:32:43.729 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_game.py
+2023-12-22 22:33:15.330 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:35:28.735 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:36:26.751 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:37:05.232 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:37:32.796 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:38:52.335 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:38:59.834 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:39:42.727 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:41:01.188 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game_state.py
+2023-12-22 22:45:01.880 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:46:58.286 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:49:01.148 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:49:38.325 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:50:28.709 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:52:58.405 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:57:11.418 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game_state.py
+2023-12-22 22:57:37.644 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 22:57:57.377 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 22:58:39.828 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 22:59:01.775 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:00:06.537 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:00:16.592 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:00:18.486 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:00:20.830 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:01:58.166 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:04:36.389 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:04:58.258 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:05:56.162 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:09:37.509 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:11:45.150 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:12:48.818 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:14:31.528 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:15:53.721 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game_state.py
+2023-12-22 23:16:47.355 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:22:12.572 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:22:41.543 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:23:03.322 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:23:19.916 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:24:35.825 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:25:23.929 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:25:57.523 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:27:47.556 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:30:17.394 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:30:51.707 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:31:11.109 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:31:19.836 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-22 23:36:02.701 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:39:06.144 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:40:49.993 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:41:02.727 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:41:17.238 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:42:26.953 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:42:30.616 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:42:42.529 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:43:23.700 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:44:35.483 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:44:50.307 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:44:55.993 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-22 23:47:44.092 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game_state.py
+2023-12-23 00:08:03.592 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-23 00:08:34.054 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-23 00:19:06.337 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game_state.py
+2023-12-23 00:25:44.090 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/main.py
+2023-12-23 00:31:32.751 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game.py
+2023-12-23 00:31:44.902 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game.py
+2023-12-23 00:32:37.274 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game.py
+2023-12-23 09:33:51.428 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game.py
+2023-12-23 09:33:52.682 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/game.py
+2023-12-23 09:38:22.549 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/tests/test_action.py
+2023-12-23 09:39:39.670 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-23 09:40:15.601 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-23 09:42:58.680 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 09:48:39.989 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 09:49:39.049 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 09:50:27.477 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 09:52:12.354 [info] Discover tests for workspace name: undefined - uri: /home/stickee/.config/Code/User/settings.json
+2023-12-23 09:52:18.108 [info] Discover tests for workspace name: undefined - uri: /home/stickee/.config/Code/User/settings.json
+2023-12-23 09:52:20.323 [info] Discover tests for workspace name: undefined - uri: /home/stickee/.config/Code/User/settings.json
+2023-12-23 09:53:19.603 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 09:53:30.929 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/engine/mechanics/action.py
+2023-12-23 09:58:57.009 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py
+2023-12-23 09:59:20.393 [info] Discover tests for workspace name: chrmndr - uri: /mnt/Kynthos Development/chrmndr/chrmndr/models/card.py

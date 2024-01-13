@@ -9,6 +9,7 @@ stow --adopt \
   dolphin \
 	kitty \
 	neofetch \
+  code \
 	paru
 
 # Git global settings
@@ -16,6 +17,7 @@ echo "Set git global settings ...."
 sleep 1
 git config --global user.email "kynthosdevelopment@gmail.com"
 git config --global user.name "kynthosdev"
+git config --global init.defaultBranch "main"
 
 
 # SSH keygen
@@ -36,6 +38,9 @@ antibody bundle < ~/.zsh_plugins.txt > ~/.zsh_plugins.sh
 # Enable services
 echo "Enable services"
 sudo systemctl enable sddm.service
+sudo systemctl enable acpid.service
+sudo systemctl enable laptop-mode.service
+sudo systemctl enable docker.service
 
 
 # Add user to groups

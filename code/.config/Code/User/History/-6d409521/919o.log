@@ -1,0 +1,2337 @@
+DEBUG - Simulation started - main.py
+DEBUG - Building deck - utils.py
+DEBUG - Number of cards in deck is 60 - utils.py
+DEBUG - Build complete - utils.py
+DEBUG - Building deck - utils.py
+DEBUG - Number of cards in deck is 60 - utils.py
+DEBUG - Build complete - utils.py
+INFO - Starting game - game.py
+INFO - Starting player: GOLDFISH - game.py
+INFO - Active player: GOLDFISH - game.py
+INFO - Non-Active player: HERO - game.py
+INFO - HERO shuffling deck - game.py
+INFO - Shuffling... - actions.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH shuffling deck - game.py
+INFO - Shuffling... - actions.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - Start match - game.py
+DEBUG - XXXXXXXXXXXX - TURN 1 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH skips first draw step - beginning_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 2 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 3 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 4 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 5 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 6 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 7 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 8 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 9 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 10 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 11 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 12 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 13 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 14 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 15 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 16 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 17 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 18 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 19 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 20 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 21 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 22 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 23 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 24 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 25 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 26 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 27 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 28 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 29 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 30 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 31 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 32 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 33 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 34 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 35 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 36 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 37 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 38 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 39 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 40 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 41 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 42 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 43 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 44 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 45 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 46 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 47 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 48 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 49 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 50 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 51 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 52 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 53 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO draws Plains(owner='HERO', name='Plains', type_line='Basic Land — Plains', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - Plains selected --- RANDOM - random_policy.py
+INFO - HERO casting Plains from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - HERO gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - HERO has passed the turn - game_state.py
+INFO - Non-Active player: HERO - game_state.py
+INFO - Active player: GOLDFISH - game_state.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py
+DEBUG - XXXXXXXXXXXX - TURN 54 - XXXXXXXXXXXX  - game.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - GOLDFISH draws Mountain(owner='GOLDFISH', name='Mountain', type_line='Basic Land — Mountain', game_id='31f6c244-c051-4159-a26a-1e1d37e10b72') - player.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - Mountain selected --- RANDOM - random_policy.py
+INFO - GOLDFISH casting Mountain from hand - player.py
+INFO - ++++++Beginning of COMBAT PHASE - combat_phase.py
+INFO - ++++++Beginning of MAIN PHASE - main_phase.py
+INFO - GOLDFISH gains priority - game_state.py
+INFO - ++++++Beginning of ENDING PHASE - ending_phase.py
+INFO - ----------Beginning of END STEP - ending_phase.py
+INFO - ----------Beginning of CLEAN STEP - ending_phase.py
+INFO - ------------------------------------------------------------------------- - ending_phase.py
+INFO - GOLDFISH has passed the turn - game_state.py
+INFO - Non-Active player: GOLDFISH - game_state.py
+INFO - Active player: HERO - game_state.py
+INFO - ++++++Beginning of BEGINNING PHASE - beginning_phase.py
+INFO - ----------Beginning of UNTAP STEP - beginning_phase.py
+INFO - ----------Beginning of UPKEEP STEP - beginning_phase.py
+INFO - ----------Beginning of DRAW STEP - beginning_phase.py
+INFO - HERO has lost - No more cards in library - player.py
+INFO - Resetting player attributes - player.py
+INFO - Resetting player attributes - player.py

@@ -1,0 +1,20 @@
+2023-12-27 15:44:35.879 [info] Experiment 'pythonaacf' is active
+2023-12-27 15:44:35.879 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-27 15:44:35.879 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-27 15:44:35.879 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-27 15:44:35.879 [info] Experiment 'pythonTestAdapter' is active
+2023-12-27 15:44:35.879 [info] Default formatter is set to null for workspace /mnt/Kynthos Development/chrmndr
+2023-12-27 15:44:35.879 [info] Test server listening.
+2023-12-27 15:44:35.879 [info] Python interpreter path: ./.venv/bin/python
+2023-12-27 15:44:36.129 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-27 15:44:36.192 [info] > conda info --json
+2023-12-27 15:44:36.258 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-27 15:44:36.258 [info] shell: bash
+2023-12-27 15:44:37.280 [info] Starting Pylance language server.
+2023-12-27 15:44:39.129 [info] Shell integration is not working for zsh
+2023-12-27 15:44:39.129 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-27 15:44:39.138 [info] > . "/mnt/Kynthos Development/chrmndr/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-27 15:44:39.138 [info] shell: zsh
+2023-12-27 15:44:39.165 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2023-12-27 15:44:39.165 [info] shell: zsh
+2023-12-27 15:44:39.182 [info] Send text to terminal: /bin/python /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariablesToFile.py /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/deactivate/zsh/envVars.txt

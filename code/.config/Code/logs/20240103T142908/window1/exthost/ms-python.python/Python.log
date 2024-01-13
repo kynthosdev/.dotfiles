@@ -1,0 +1,28 @@
+2024-01-03 14:47:50.145 [info] Experiment 'pythonaacf' is active
+2024-01-03 14:47:50.145 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-03 14:47:50.145 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-03 14:47:50.145 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-01-03 14:47:50.145 [info] Experiment 'pythonTestAdapter' is active
+2024-01-03 14:47:50.145 [info] Default formatter is set to null for workspace /mnt/Kynthos Development/blbsr
+2024-01-03 14:47:50.323 [info] Send text to terminal: echo /usr/bin/zsh
+2024-01-03 14:47:50.354 [info] > conda info --json
+2024-01-03 14:47:50.385 [info] > "/mnt/Kynthos Development/blbsr/src/backend/.venv/bin/python3.11" -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-03 14:47:50.457 [info] Python interpreter path: ./src/backend/.venv/bin/python3.11
+2024-01-03 14:47:50.520 [info] > . "/mnt/Kynthos Development/blbsr/src/backend/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2024-01-03 14:47:50.520 [info] shell: bash
+2024-01-03 14:47:50.522 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-01-03 14:47:50.522 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-01-03 14:47:50.522 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-01-03 14:47:50.522 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-01-03 14:47:50.522 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-01-03 14:47:51.469 [info] Starting Pylance language server.
+2024-01-03 14:47:52.132 [info] Test server listening.
+2024-01-03 14:47:53.324 [info] Shell integration is not working for zsh
+2024-01-03 14:47:53.325 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2024-01-03 14:47:53.335 [info] > . "/mnt/Kynthos Development/blbsr/src/backend/.venv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2024-01-03 14:47:53.335 [info] shell: zsh
+2024-01-03 14:47:53.362 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2024-01-03 14:47:53.362 [info] shell: zsh
+2024-01-03 14:47:53.380 [info] Send text to terminal: /bin/python /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariablesToFile.py /home/stickee/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/deactivate/zsh/envVars.txt
+2024-01-03 14:48:09.479 [info] Discover tests for workspace name: blbsr - uri: /mnt/Kynthos Development/blbsr/src/backend/app/preprocessors/ncs.py
+2024-01-03 15:09:43.613 [info] Discover tests for workspace name: blbsr - uri: /mnt/Kynthos Development/blbsr/src/backend/app/main.py

@@ -1,0 +1,66 @@
+2024-01-03 09:46:28.465 [info] Configuration changed
+2024-01-03 09:46:28.649 [info] Configuration changed
+2024-01-03 09:46:29.245 [info] Configuration changed
+2024-01-03 09:46:29.250 [info] Configuration changed
+2024-01-03 09:46:29.449 [info] Configuration changed
+2024-01-03 09:51:26.100 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/requirements.txt
+2024-01-03 09:52:45.704 [info] /mnt/Kynthos Development/blbsr/src/backend/requirements.txt closed
+2024-01-03 09:52:45.705 [info] /mnt/Kynthos Development/blbsr/src/backend/requirements.txt.git closed
+2024-01-03 10:07:47.651 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/Dockerfile
+2024-01-03 10:09:38.799 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/app/main.py
+2024-01-03 10:09:38.812 [info] /mnt/Kynthos Development/blbsr/src/backend/Dockerfile.git closed
+2024-01-03 10:10:21.136 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py closed
+2024-01-03 10:10:21.140 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/Dockerfile
+2024-01-03 10:10:21.149 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py.git closed
+2024-01-03 10:11:04.860 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/pyproject.toml
+2024-01-03 10:11:04.861 [info] /mnt/Kynthos Development/blbsr/src/backend/Dockerfile.git closed
+2024-01-03 10:11:15.126 [info] /mnt/Kynthos Development/blbsr/src/backend/pyproject.toml closed
+2024-01-03 10:11:15.129 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/Dockerfile
+2024-01-03 10:11:15.139 [info] /mnt/Kynthos Development/blbsr/src/backend/pyproject.toml.git closed
+2024-01-03 10:11:34.400 [info] /mnt/Kynthos Development/blbsr/src/backend/Dockerfile closed
+2024-01-03 10:11:34.401 [info] /mnt/Kynthos Development/blbsr/src/backend/Dockerfile.git closed
+2024-01-03 10:11:50.185 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/app/main.py
+2024-01-03 10:13:46.462 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py closed
+2024-01-03 10:13:46.462 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py.git closed
+2024-01-03 10:15:06.359 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/app/main.py
+2024-01-03 10:16:41.716 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py closed
+2024-01-03 10:16:41.716 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py.git closed
+2024-01-03 10:16:45.746 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/Dockerfile
+2024-01-03 10:49:18.161 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/requirements.txt
+2024-01-03 10:49:18.169 [info] /mnt/Kynthos Development/blbsr/src/backend/Dockerfile.git closed
+2024-01-03 10:49:21.987 [info] /mnt/Kynthos Development/blbsr/src/backend/requirements.txt closed
+2024-01-03 10:49:21.990 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/Dockerfile
+2024-01-03 10:49:21.999 [info] /mnt/Kynthos Development/blbsr/src/backend/requirements.txt.git closed
+2024-01-03 10:52:05.292 [info] /mnt/Kynthos Development/blbsr/src/backend/Dockerfile closed
+2024-01-03 10:52:05.292 [info] /mnt/Kynthos Development/blbsr/src/backend/Dockerfile.git closed
+2024-01-03 10:54:09.159 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/.dockerignore
+2024-01-03 10:54:57.549 [info] /mnt/Kynthos Development/blbsr/src/backend/.dockerignore closed
+2024-01-03 10:54:57.549 [info] /mnt/Kynthos Development/blbsr/src/backend/.dockerignore.git closed
+2024-01-03 10:58:50.830 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/docker-compose.yml
+2024-01-03 10:59:00.039 [info] /mnt/Kynthos Development/blbsr/src/backend/docker-compose.yml closed
+2024-01-03 10:59:00.040 [info] /mnt/Kynthos Development/blbsr/src/backend/docker-compose.yml.git closed
+2024-01-03 11:00:10.651 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/compose.yaml
+2024-01-03 11:01:22.026 [info] /mnt/Kynthos Development/blbsr/src/backend/compose.yaml closed
+2024-01-03 11:01:22.027 [info] /mnt/Kynthos Development/blbsr/src/backend/compose.yaml.git closed
+2024-01-03 11:07:30.612 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/compose.yaml
+2024-01-03 11:08:37.782 [info] /mnt/Kynthos Development/blbsr/src/backend/compose.yaml closed
+2024-01-03 11:08:37.782 [info] /mnt/Kynthos Development/blbsr/src/backend/compose.yaml.git closed
+2024-01-03 11:09:43.119 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/.dockerignore
+2024-01-03 11:09:47.599 [info] /mnt/Kynthos Development/blbsr/src/.dockerignore closed
+2024-01-03 11:09:47.610 [info] /mnt/Kynthos Development/blbsr/src/.dockerignore.git closed
+2024-01-03 11:09:47.628 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/.dockerignore
+2024-01-03 11:09:54.331 [info] /mnt/Kynthos Development/blbsr/src/backend/.dockerignore closed
+2024-01-03 11:09:54.331 [info] /mnt/Kynthos Development/blbsr/src/backend/.dockerignore.git closed
+2024-01-03 11:10:52.911 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/compose.yaml
+2024-01-03 11:11:51.250 [info] /mnt/Kynthos Development/blbsr/src/backend/compose.yaml closed
+2024-01-03 11:11:51.250 [info] /mnt/Kynthos Development/blbsr/src/backend/compose.yaml.git closed
+2024-01-03 11:16:13.156 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/app/preprocessors/__init__.py
+2024-01-03 11:16:15.417 [info] /mnt/Kynthos Development/blbsr/src/backend/app/preprocessors/__init__.py closed
+2024-01-03 11:16:15.418 [info] /mnt/Kynthos Development/blbsr/src/backend/app/preprocessors/__init__.py.git closed
+2024-01-03 11:16:25.444 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/app/main.py
+2024-01-03 11:19:44.197 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py closed
+2024-01-03 11:19:44.197 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py.git closed
+2024-01-03 11:19:46.135 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/app/main.py
+2024-01-03 11:29:55.008 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py closed
+2024-01-03 11:29:55.009 [info] /mnt/Kynthos Development/blbsr/src/backend/app/main.py.git closed
+2024-01-03 11:30:13.965 [info] Active editor: file:///mnt/Kynthos%20Development/blbsr/src/backend/compose.yaml
