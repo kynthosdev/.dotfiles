@@ -19,6 +19,8 @@ git config --global user.email "kynthosdevelopment@gmail.com"
 git config --global user.name "kynthosdev"
 git config --global init.defaultBranch "main"
 
+# Development CONFIGURATION
+sudo pnpm add -g @quasar/cli hygen
 
 # SSH keygen
 echo "Generate ssh key ...."

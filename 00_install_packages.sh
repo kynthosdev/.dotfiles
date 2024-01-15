@@ -7,9 +7,10 @@ sudo pacman --noconfirm -Syu
 echo Install packages and dependencies........
 sleep 1
 sudo pacman --noconfirm -Sy \
-	awesome \
+	#awesome \
+  plasma-desktop bluedevil \
 	sddm \
-	pipewire-audio pipewire-alsa pipewire-pulse pipewire-jack \
+	bluez pipewire-audio pipewire-alsa pipewire-pulse pipewire-jack \
   conky xfce4-power-manager \
 	stow \
 	bat \
@@ -25,7 +26,7 @@ sudo pacman --noconfirm -Sy \
 	libvirt qemu-full virt-manager x11-ssh-askpass \
   steam \
   acpid \
-  nodejs docker docker-compose \
+  nodejs-lts-iron yarn docker docker-compose \
   freecad
 
 

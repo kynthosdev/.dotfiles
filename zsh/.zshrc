@@ -135,6 +135,7 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 alias mkdir='mkdir -pv'
+alias p='pnpm'
 
 # Navigation
 alias todots='cd ~/.dotfiles'

@@ -1,0 +1,15 @@
+2024-01-13 11:34:11.854 [info] update#setState idle
+2024-01-13 11:34:41.856 [info] update#setState checking for updates
+2024-01-13 11:34:42.043 [info] update#setState idle
+2024-01-13 11:35:30.617 [info] Extension host with pid 13505 exited with code: 0, signal: unknown.
+2024-01-13 11:35:48.952 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-01-13 11:35:48.952 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 13945]: crashed with code 15 and reason 'killed'
+2024-01-13 11:35:48.954 [info] Extension host with pid 13956 exited with code: 0, signal: unknown.
+2024-01-13 12:34:41.859 [info] update#setState checking for updates
+2024-01-13 12:34:47.046 [info] update#setState idle
+2024-01-13 13:21:45.423 [info] Extension host with pid 14058 exited with code: 0, signal: unknown.
+2024-01-13 13:21:45.424 [error] [UtilityProcess id: 3, type: extensionHost, pid: 14058]: crashed with code 15 and reason 'killed'
+2024-01-13 13:21:45.430 [error] ptyHost terminated unexpectedly with code 0
+2024-01-13 13:21:45.449 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2024-01-13 13:21:45.464 [error] [UtilityProcess type: shared-process, pid: 13485]: crashed with code 15 and reason 'killed'
+2024-01-13 13:21:45.466 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 14048]: crashed with code 15 and reason 'killed'

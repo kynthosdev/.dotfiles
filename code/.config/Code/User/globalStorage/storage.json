@@ -5,9 +5,12 @@
             "file:///mnt/Kynthos%20Development/jupyter-playground": "__default__profile__",
             "file:///home/stickee/.local/share/Steam/steamapps": "__default__profile__",
             "file:///mnt/Kynthos%20Development/chrmndr": "__default__profile__",
+            "file:///mnt/Kynthos%20Development/blbsr/src/frontend": "__default__profile__",
             "file:///mnt/Kynthos%20Development/blbsr": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1705138531251": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -16,10 +19,17 @@
         "workspaces": [],
         "folders": [
             {
+                "folderUri": "file:///mnt/Kynthos%20Development/blbsr/src/frontend"
+            },
+            {
                 "folderUri": "file:///mnt/Kynthos%20Development/blbsr"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1705138531251"
+            }
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -74,6 +84,17 @@
                                     },
                                     "enabled": true,
                                     "label": "/mnt/Kynthos Development/blbsr"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/Kynthos%20Development/blbsr/src/frontend",
+                                        "path": "/mnt/Kynthos Development/blbsr/src/frontend",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/Kynthos Development/blbsr/src/frontend"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -366,13 +387,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -797,10 +816,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -824,8 +839,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },

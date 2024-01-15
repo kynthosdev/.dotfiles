@@ -1,3 +1,0 @@
-2023-12-20 21:21:18.839 [info] update#setState idle
-2023-12-20 21:21:29.815 [info] Extension host with pid 18072 exited with code: 0, signal: unknown.
-2023-12-20 21:21:29.817 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 18053]: crashed with code 15 and reason 'killed'
