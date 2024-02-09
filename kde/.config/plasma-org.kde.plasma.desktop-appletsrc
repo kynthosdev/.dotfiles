@@ -16,6 +16,10 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][2]
 activityId=
 formfactor=2
@@ -40,7 +44,7 @@ plugin=org.kde.plasma.kickoff
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
 popupHeight=514
-popupWidth=651
+popupWidth=655
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
@@ -90,7 +94,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][10][Configuration]
-PreloadWeight=55
+PreloadWeight=70
 
 [Containments][8][Applets][11]
 immutability=1
@@ -109,7 +113,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][16][Configuration]
-PreloadWeight=75
+PreloadWeight=80
 
 [Containments][8][Applets][16][Configuration][General]
 migrated=true
@@ -119,11 +123,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][17][Configuration]
-PreloadWeight=55
+PreloadWeight=75
 
 [Containments][8][Applets][18]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
+
+[Containments][8][Applets][18][Configuration]
+PreloadWeight=10
 
 [Containments][8][Applets][9]
 immutability=1

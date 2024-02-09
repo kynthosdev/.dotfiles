@@ -1,0 +1,43 @@
+2024-02-08 22:57:48.123 [info] Started local extension host with pid 4767.
+2024-02-08 22:57:48.186 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-08 22:57:51.007 [info] [perf] Render performance baseline is 56ms
+2024-02-08 22:59:07.755 [info] Started local extension host with pid 4840.
+2024-02-08 22:59:07.806 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-08 22:59:10.415 [info] [perf] Render performance baseline is 26ms
+2024-02-08 23:16:37.450 [error] TextModelPart is disposed!: Error: TextModelPart is disposed!
+    at h.g (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:121:22490)
+    at h.getWordAtPosition (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:641:122750)
+    at U.getWordAtPosition (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:748:9085)
+    at C.h (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:73619)
+    at new $ (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:73494)
+    at new C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:74077)
+    at M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:74880)
+    at N.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:79469)
+    at N.E (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:79266)
+    at new N (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:75865)
+    at x (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:80341)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:80486)
+    at o.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1972)
+    at o.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2188)
+    at x.setModel (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:756:421)
+    at P.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:22676)
+    at async f.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:24503)
+    at async f.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:23112)
+    at async f.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:22101)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2309:23514
+    at async ee.sb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:168658)
+2024-02-08 23:30:49.250 [error] Unable to read file '/mnt/Kynthos Development/blbsr/scripts/generate.ts' (Error: File not modified since): Error: Unable to read file '/mnt/Kynthos Development/blbsr/scripts/generate.ts' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19875)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async f.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42897)
+    at async f.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:42654)
+    at async L.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:13459)
+    at async L.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2192:11906)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2203:38766
+2024-02-08 23:46:07.122 [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:476:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-02-08 23:50:14.137 [info] Started local extension host with pid 8140.
+2024-02-08 23:50:14.234 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.

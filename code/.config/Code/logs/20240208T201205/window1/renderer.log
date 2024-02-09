@@ -1,0 +1,30 @@
+2024-02-08 20:12:07.549 [error] Error: The editor could not be opened because the file was not found.
+    at P.ic (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:23899)
+    at async P.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:22943)
+    at async f.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:24503)
+    at async f.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:23112)
+    at async f.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:22101)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2309:23514
+2024-02-08 20:12:07.595 [info] Started local extension host with pid 4730.
+2024-02-08 20:12:07.664 [info] Started initializing default profile extensions in extensions installation folder. file:///home/stickee/.vscode/extensions
+2024-02-08 20:12:08.112 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/stickee/.vscode/extensions
+2024-02-08 20:12:10.742 [info] [perf] Render performance baseline is 26ms
+2024-02-08 20:12:32.860 [error] Error: The editor could not be opened because the file was not found.
+    at P.ic (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:23899)
+    at async P.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:22943)
+    at async f.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:24503)
+    at async f.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:23112)
+    at async f.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:22101)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2309:23514
+2024-02-08 20:12:34.031 [error] Error: The editor could not be opened because the file was not found.
+    at P.ic (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:23899)
+    at async P.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:22943)
+    at async f.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:24503)
+    at async f.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:23112)
+    at async f.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:22101)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2309:23514
+2024-02-08 20:13:03.022 [info] Started local extension host with pid 5420.
+2024-02-08 20:13:06.061 [info] [perf] Render performance baseline is 61ms
+2024-02-08 20:48:05.098 [info] Started local extension host with pid 9374.
+2024-02-08 20:48:08.083 [info] [perf] Render performance baseline is 38ms
+2024-02-08 20:49:19.233 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.

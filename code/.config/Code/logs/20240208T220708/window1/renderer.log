@@ -1,0 +1,4 @@
+2024-02-08 22:07:09.060 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/stickee/Downloads/oracle-cards-20240208100142.json","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-02-08 22:07:11.054 [info] Started local extension host with pid 2436.
+2024-02-08 22:07:11.271 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-08 22:07:13.653 [info] [perf] Render performance baseline is 53ms

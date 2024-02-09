@@ -1,0 +1,123 @@
+2024-02-08 20:12:07.973 [info] Started initializing default profile extensions in extensions installation folder. file:///home/stickee/.vscode/extensions
+2024-02-08 20:12:08.049 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/stickee/.vscode/extensions
+2024-02-08 20:12:08.128 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-08 20:12:08.833 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-08 20:13:03.262 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-08 20:47:29.582 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-08 20:48:05.861 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-08 20:49:18.958 [info] Getting Manifest... vue.volar
+2024-02-08 20:49:18.963 [info] Installing extension: vue.volar
+2024-02-08 20:49:19.139 [warning] Extension signature verification failed with error 'UnknownError': vue.volar
+2024-02-08 20:49:19.183 [info] Extracted extension to file:///home/stickee/.vscode/extensions/vue.volar-1.8.27: vue.volar
+2024-02-08 20:49:19.186 [info] Renamed to /home/stickee/.vscode/extensions/vue.volar-1.8.27
+2024-02-08 20:49:19.188 [info] Extracting extension completed. vue.volar
+2024-02-08 20:49:19.194 [info] Extension installed successfully: vue.volar
+2024-02-08 20:49:19.270 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-08 20:50:12.013 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-08 20:50:12.018 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-08 20:50:13.284 [warning] Extension signature verification failed with error 'UnknownError': dbaeumer.vscode-eslint
+2024-02-08 20:50:13.306 [info] Extracted extension to file:///home/stickee/.vscode/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-08 20:50:13.309 [info] Renamed to /home/stickee/.vscode/extensions/dbaeumer.vscode-eslint-2.4.4
+2024-02-08 20:50:13.310 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2024-02-08 20:50:13.316 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2024-02-08 20:50:13.389 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-08 20:50:16.176 [info] Getting Manifest... editorconfig.editorconfig
+2024-02-08 20:50:16.180 [info] Installing extension: editorconfig.editorconfig
+2024-02-08 20:50:16.694 [warning] Extension signature verification failed with error 'UnknownError': editorconfig.editorconfig
+2024-02-08 20:50:16.746 [info] Extracted extension to file:///home/stickee/.vscode/extensions/editorconfig.editorconfig-0.16.4: editorconfig.editorconfig
+2024-02-08 20:50:16.749 [info] Renamed to /home/stickee/.vscode/extensions/editorconfig.editorconfig-0.16.4
+2024-02-08 20:50:16.750 [info] Extracting extension completed. editorconfig.editorconfig
+2024-02-08 20:50:16.756 [info] Extension installed successfully: editorconfig.editorconfig
+2024-02-08 20:50:16.829 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-08 20:50:23.521 [info] Getting Manifest... wayou.vscode-todo-highlight
+2024-02-08 20:50:23.527 [info] Installing extension: wayou.vscode-todo-highlight
+2024-02-08 20:50:24.201 [warning] Extension signature verification failed with error 'UnknownError': wayou.vscode-todo-highlight
+2024-02-08 20:50:24.227 [info] Extracted extension to file:///home/stickee/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5: wayou.vscode-todo-highlight
+2024-02-08 20:50:24.234 [info] Renamed to /home/stickee/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5
+2024-02-08 20:50:24.235 [info] Extracting extension completed. wayou.vscode-todo-highlight
+2024-02-08 20:50:24.241 [info] Extension installed successfully: wayou.vscode-todo-highlight
+2024-02-08 20:50:24.314 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-08 20:50:34.284 [info] Getting Manifest... gencer.html-slim-scss-css-class-completion
+2024-02-08 20:50:34.292 [info] Installing extension: gencer.html-slim-scss-css-class-completion
+2024-02-08 20:50:35.111 [warning] Extension signature verification failed with error 'UnknownError': gencer.html-slim-scss-css-class-completion
+2024-02-08 20:50:35.143 [info] Extracted extension to file:///home/stickee/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.7.8: gencer.html-slim-scss-css-class-completion
+2024-02-08 20:50:35.146 [info] Renamed to /home/stickee/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.7.8
+2024-02-08 20:50:35.147 [info] Extracting extension completed. gencer.html-slim-scss-css-class-completion
+2024-02-08 20:50:35.153 [info] Extension installed successfully: gencer.html-slim-scss-css-class-completion
+2024-02-08 20:50:35.225 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)

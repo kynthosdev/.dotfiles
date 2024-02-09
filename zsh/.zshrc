@@ -85,7 +85,7 @@ alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
 # Edit for important configuration files
-alias ninst="$EDITOR ~/.dotfiles/00_install_packages.sh"
+alias ninstfr="$EDITOR ~/.dotfiles/01_install_packages_from_repo.sh"
 alias nconf="$EDITOR ~/.dotfiles/01_configue_system.sh"
 
 alias nlxdm="sudo $EDITOR /etc/lxdm/lxdm.conf"

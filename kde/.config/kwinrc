@@ -3,11 +3,16 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 
 [Desktops]
 Id_1=676cb9b9-8ba4-405a-9cee-133e9a2c8437
-Number=1
+Id_2=907682f2-eaea-4718-b560-24ce0ea7c5fa
+Id_3=62c66b63-2d24-4cec-979e-8f6d2b874808
+Number=3
 Rows=1
 
 [NightColor]
 Active=true
+LatitudeAuto=-34.0486
+LongitudeAuto=18.4811
+NightTemperature=3600
 
 [Tiling]
 padding=4
