@@ -1,0 +1,95 @@
+2024-02-09 19:07:08.646 [info] Extension host with pid 6652 started
+2024-02-09 19:07:08.663 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-09 19:07:08.684 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-09 19:07:08.744 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-09 19:07:08.839 [info] Eager extensions activated
+2024-02-09 19:07:08.848 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 19:07:08.850 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 19:10:04.953 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-09 19:10:04.962 [info] Extension host with pid 6652 exiting with code 0
+2024-02-09 19:10:06.571 [info] Extension host with pid 7376 started
+2024-02-09 19:10:06.572 [info] Skipping acquiring lock for /home/stickee/.config/Code/User/workspaceStorage/383b982ba833be3224ca9e20a0814d07.
+2024-02-09 19:10:06.818 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-09 19:10:06.831 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-02-09 19:10:07.264 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-09 19:10:07.266 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-09 19:10:07.307 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-09 19:10:07.330 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-09 19:10:07.389 [info] Eager extensions activated
+2024-02-09 19:10:07.408 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 19:10:07.410 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 19:10:27.453 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:typescript'
+2024-02-09 19:10:32.907 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 19:10:38.348 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: '*'
+2024-02-09 19:10:46.276 [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion, startup: false, activationEvent: '*'
+2024-02-09 19:14:57.412 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2024-02-09 20:16:42.602 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-02-09 20:16:42.613 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-02-09 20:31:53.171 [warning] vscode.json-language-features - Code actions of kind 'source.fixAll.eslint 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-09 20:32:51.022 [warning] vscode.json-language-features - Code actions of kind 'source.fixAll.eslint 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-09 21:00:40.643 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-09 21:00:40.681 [info] Extension host with pid 7376 exiting with code 0
+2024-02-09 21:00:41.700 [info] Extension host with pid 14412 started
+2024-02-09 21:00:41.714 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-09 21:00:41.716 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-02-09 21:00:41.723 [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion, startup: true, activationEvent: '*'
+2024-02-09 21:00:41.828 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-09 21:00:41.841 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-09 21:00:41.877 [info] Eager extensions activated
+2024-02-09 21:00:41.893 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 21:00:41.894 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 21:00:41.899 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 21:04:28.662 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-09 21:04:28.672 [info] Extension host with pid 14412 exiting with code 0
+2024-02-09 21:04:29.418 [info] Extension host with pid 14601 started
+2024-02-09 21:04:29.418 [info] Skipping acquiring lock for /home/stickee/.config/Code/User/workspaceStorage/383b982ba833be3224ca9e20a0814d07.
+2024-02-09 21:04:29.464 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-09 21:04:29.467 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-02-09 21:04:29.477 [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion, startup: true, activationEvent: '*'
+2024-02-09 21:04:29.579 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-09 21:04:29.652 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-09 21:04:29.671 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-09 21:04:30.348 [info] Eager extensions activated
+2024-02-09 21:04:30.355 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 21:04:30.357 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 21:04:30.362 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 21:04:46.015 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-02-09 21:04:46.059 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:typescript'
+2024-02-09 21:04:46.076 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-09 21:33:36.107 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-02-09 21:33:36.111 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-02-09 21:47:53.814 [warning] vscode.json-language-features - Code actions of kind 'source.fixAll.eslint 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-09 21:48:19.257 [warning] vscode.json-language-features - Code actions of kind 'source.fixAll.eslint 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-09 22:16:33.146 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-09 22:16:33.186 [info] Extension host with pid 14601 exiting with code 0
+2024-02-09 22:16:34.259 [info] Extension host with pid 19164 started
+2024-02-09 22:16:34.267 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-09 22:16:34.269 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-02-09 22:16:34.279 [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion, startup: true, activationEvent: '*'
+2024-02-09 22:16:34.383 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-09 22:16:34.398 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-09 22:16:34.434 [info] Eager extensions activated
+2024-02-09 22:16:34.450 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 22:16:34.451 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 22:16:34.456 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 22:17:04.495 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-09 22:17:04.503 [info] Extension host with pid 19164 exiting with code 0
+2024-02-09 22:17:05.225 [info] Extension host with pid 19209 started
+2024-02-09 22:17:05.225 [info] Skipping acquiring lock for /home/stickee/.config/Code/User/workspaceStorage/383b982ba833be3224ca9e20a0814d07.
+2024-02-09 22:17:05.282 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-02-09 22:17:05.300 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-09 22:17:05.304 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-02-09 22:17:05.756 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-09 22:17:05.759 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-02-09 22:17:05.782 [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion, startup: true, activationEvent: '*'
+2024-02-09 22:17:05.914 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-09 22:17:06.063 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-09 22:17:06.111 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-09 22:17:07.165 [info] Eager extensions activated
+2024-02-09 22:17:07.208 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 22:17:07.211 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-09 22:17:07.218 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-10 00:26:32.946 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-02-10 00:26:32.950 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-02-10 00:36:59.806 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-10 00:36:59.853 [info] Extension host with pid 19209 exiting with code 0

@@ -1,0 +1,23 @@
+2024-02-11 17:39:44.386 [info] Started local extension host with pid 2891.
+2024-02-11 17:39:44.581 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-11 17:39:47.906 [info] [perf] Render performance baseline is 56ms
+2024-02-11 18:13:40.456 [info] Started local extension host with pid 4731.
+2024-02-11 18:13:40.516 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-11 18:13:43.461 [info] [perf] Render performance baseline is 29ms
+2024-02-11 19:43:04.438 [warning] Overlapping semantic tokens detected at lineNumber 2, column 11
+2024-02-11 20:00:45.745 [warning] Overlapping semantic tokens detected at lineNumber 4, column 11
+2024-02-11 20:45:13.132 [error] There are no commenting ranges at the current position.: Error: There are no commenting ranges at the current position.
+    at z.addCommentAtLine (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2116:2556)
+    at z.addOrToggleCommentAtLine (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2116:2087)
+    at z.Z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2116:1793)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2115:20551)
+    at K.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at K.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1972)
+    at K.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2188)
+    at K.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:756:19613)
+    at Wb.he.onMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:756:17939)
+    at S.emitMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:39861)
+    at T.emitMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:693:41151)
+    at b.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:731:14781)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:731:12419
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:726:30999)

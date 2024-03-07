@@ -1,0 +1,24 @@
+2024-02-12 20:19:34.791 [info] Extension host with pid 2809 started
+2024-02-12 20:19:34.791 [info] Skipping acquiring lock for /home/stickee/.config/Code/User/workspaceStorage/383b982ba833be3224ca9e20a0814d07.
+2024-02-12 20:19:34.940 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-12 20:19:34.942 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-02-12 20:19:34.958 [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion, startup: true, activationEvent: '*'
+2024-02-12 20:19:35.082 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-12 20:19:35.225 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-12 20:19:35.246 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-12 20:19:36.268 [info] Eager extensions activated
+2024-02-12 20:19:36.271 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-12 20:19:36.273 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-12 20:19:36.279 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-12 20:20:33.927 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2024-02-12 20:21:27.800 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:vue'
+2024-02-12 20:21:27.818 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-12 20:21:43.099 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-02-12 20:29:42.996 [warning] Vue.volar - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.move.newFile.dumb'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-12 20:58:10.171 [warning] Vue.volar - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.move.newFile.dumb'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-12 20:58:18.707 [warning] Vue.volar - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.move.newFile.dumb'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-12 20:58:21.068 [warning] Vue.volar - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.move.newFile.dumb'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-12 20:58:25.917 [warning] Vue.volar - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.move.newFile.dumb'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-02-12 21:35:58.692 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-13 17:53:12.630 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-13 17:53:12.669 [info] Extension host with pid 2809 exiting with code 0

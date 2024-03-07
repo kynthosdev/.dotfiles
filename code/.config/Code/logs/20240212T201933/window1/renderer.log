@@ -1,0 +1,30 @@
+2024-02-12 20:19:34.413 [info] Started local extension host with pid 2809.
+2024-02-12 20:19:34.442 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-12 20:19:37.101 [info] [perf] Render performance baseline is 27ms
+2024-02-12 20:21:35.407 [warning] Overlapping semantic tokens detected at lineNumber 6, column 11
+2024-02-12 20:31:08.557 [error] There are no commenting ranges at the current position.: Error: There are no commenting ranges at the current position.
+    at z.addCommentAtLine (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2116:2556)
+    at z.addOrToggleCommentAtLine (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2116:2087)
+    at z.Z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2116:1793)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2115:20551)
+    at K.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at K.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1972)
+    at K.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2188)
+    at K.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:756:19613)
+    at Wb.he.onMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:756:17939)
+    at S.emitMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:39861)
+    at T.emitMouseUp (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:693:41151)
+    at b.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:731:14781)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:731:12419
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:726:30999)
+2024-02-12 21:42:47.487 [warning] Overlapping semantic tokens detected at lineNumber 6, column 11
+2024-02-12 21:48:39.452 [warning] Overlapping semantic tokens detected at lineNumber 6, column 11
+2024-02-12 21:50:16.100 [error] Error: The editor could not be opened because the file was not found.
+    at P.ic (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:23899)
+    at async P.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2188:22943)
+    at async f.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:24503)
+    at async f.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:23112)
+    at async f.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2186:22101)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2309:23514
+    at async ee.sb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2629:168707)
+2024-02-12 21:59:47.915 [warning] Overlapping semantic tokens detected at lineNumber 20, column 17

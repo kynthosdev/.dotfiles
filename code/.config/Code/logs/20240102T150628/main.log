@@ -1,9 +1,0 @@
-2024-01-02 15:06:28.851 [info] update#setState idle
-2024-01-02 15:06:58.852 [info] update#setState checking for updates
-2024-01-02 15:06:59.013 [info] update#setState idle
-2024-01-02 15:59:08.859 [error] ptyHost terminated unexpectedly with code 0
-2024-01-02 15:59:08.874 [info] Extension host with pid 40862 exited with code: 0, signal: unknown.
-2024-01-02 15:59:08.875 [error] [UtilityProcess id: 1, type: extensionHost, pid: 40862]: crashed with code 15 and reason 'killed'
-2024-01-02 15:59:08.880 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
-2024-01-02 15:59:08.887 [error] [UtilityProcess type: shared-process, pid: 40842]: crashed with code 15 and reason 'killed'
-2024-01-02 15:59:08.895 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 40843]: crashed with code 15 and reason 'killed'

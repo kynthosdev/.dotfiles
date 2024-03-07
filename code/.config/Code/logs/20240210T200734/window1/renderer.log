@@ -1,0 +1,3 @@
+2024-02-10 20:07:36.044 [info] Started local extension host with pid 1549.
+2024-02-10 20:07:36.100 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-10 20:07:38.689 [info] [perf] Render performance baseline is 25ms

@@ -1,0 +1,7 @@
+2024-02-10 16:10:45.173 [info] Started local extension host with pid 1290.
+2024-02-10 16:10:45.217 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-10 16:10:48.827 [info] [perf] Render performance baseline is 62ms
+2024-02-10 16:19:57.714 [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:476:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

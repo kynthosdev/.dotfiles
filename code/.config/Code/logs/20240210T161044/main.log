@@ -1,0 +1,11 @@
+2024-02-10 16:10:44.342 [info] update#setState idle
+2024-02-10 16:11:14.344 [info] update#setState checking for updates
+2024-02-10 16:11:14.608 [info] update#setState idle
+2024-02-10 17:11:14.352 [info] update#setState checking for updates
+2024-02-10 17:11:15.263 [info] update#setState idle
+2024-02-10 18:11:14.358 [info] update#setState checking for updates
+2024-02-10 18:11:14.550 [info] update#setState idle
+2024-02-10 19:11:14.361 [info] update#setState checking for updates
+2024-02-10 19:11:17.170 [info] update#setState idle
+2024-02-10 20:06:18.874 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1262]: crashed with code 15 and reason 'killed'
+2024-02-10 20:06:18.888 [info] Extension host with pid 1290 exited with code: 0, signal: unknown.

@@ -1,0 +1,7 @@
+2024-02-13 17:55:17.004 [info] Started local extension host with pid 1536.
+2024-02-13 17:55:17.063 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-02-13 17:55:20.366 [info] [perf] Render performance baseline is 92ms
+2024-02-13 17:55:29.596 [warning] Overlapping semantic tokens detected at lineNumber 21, column 17
+2024-02-13 18:02:56.487 [warning] Overlapping semantic tokens detected at lineNumber 21, column 17
+2024-02-13 18:06:52.796 [warning] Overlapping semantic tokens detected at lineNumber 21, column 17
+2024-02-13 19:48:11.431 [warning] Overlapping semantic tokens detected at lineNumber 21, column 17
