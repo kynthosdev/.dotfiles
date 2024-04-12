@@ -1,0 +1,13 @@
+2024-03-30 09:11:59.198 [info] Extension host with pid 17234 started
+2024-03-30 09:11:59.250 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-03-30 09:11:59.311 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-30 09:11:59.345 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-03-30 09:11:59.409 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-30 09:11:59.450 [info] Eager extensions activated
+2024-03-30 09:11:59.469 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 09:11:59.471 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 09:11:59.486 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-03-30 09:12:01.215 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-30 09:12:01.269 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-30 09:12:07.557 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-30 09:12:07.572 [info] Extension host with pid 17234 exiting with code 0

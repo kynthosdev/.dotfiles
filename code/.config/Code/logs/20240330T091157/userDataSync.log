@@ -1,0 +1,38 @@
+2024-03-30 09:11:59.033 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-03-30 09:11:59.033 [info] Auto Sync is enabled.
+2024-03-30 09:11:59.033 [info] Auto Sync: Suspended until auth token is available.
+2024-03-30 09:11:59.273 [info] Deleting non existing profile from backup /home/stickee/.config/Code/User/sync/extensions
+2024-03-30 09:11:59.349 [info] Deleting non existing profile from backup /home/stickee/.config/Code/User/sync/globalState
+2024-03-30 09:11:59.375 [info] Deleting non existing profile from backup /home/stickee/.config/Code/User/sync/keybindings
+2024-03-30 09:11:59.376 [info] Deleting non existing profile from backup /home/stickee/.config/Code/User/sync/profiles
+2024-03-30 09:11:59.376 [info] Deleting non existing profile from backup /home/stickee/.config/Code/User/sync/settings
+2024-03-30 09:11:59.377 [info] Deleting non existing profile from backup /home/stickee/.config/Code/User/sync/snippets
+2024-03-30 09:11:59.378 [info] Deleting non existing profile from backup /home/stickee/.config/Code/User/sync/tasks
+2024-03-30 09:11:59.600 [info] Auto Sync: Triggered by Interval
+2024-03-30 09:11:59.600 [info] Sync started.
+2024-03-30 09:12:00.961 [info] Settings: Last sync resource does not exist locally.
+2024-03-30 09:12:01.220 [info] Settings: No changes found during synchronizing settings.
+2024-03-30 09:12:01.221 [info] Keybindings: Last sync resource does not exist locally.
+2024-03-30 09:12:01.499 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-30 09:12:01.500 [info] Snippets: Last sync resource does not exist locally.
+2024-03-30 09:12:01.546 [info] GlobalState: Last sync resource does not exist locally.
+2024-03-30 09:12:01.734 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-30 09:12:01.735 [info] Tasks: Last sync resource does not exist locally.
+2024-03-30 09:12:02.320 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-30 09:12:03.012 [info] GlobalState: Updated remote ui state. Added: encryption.migratedToGnomeLibsecret. Updated: cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount,colorThemeData,commandPalette.mru.cache,commandPalette.mru.counter.
+2024-03-30 09:12:03.026 [info] GlobalState: Updated last synchronized ui state
+2024-03-30 09:12:03.027 [info] Extensions: Last sync resource does not exist locally.
+2024-03-30 09:12:03.291 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-30 09:12:03.292 [info] Profiles: Last sync resource does not exist locally.
+2024-03-30 09:12:03.523 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-30 09:12:03.524 [info] Sync done. Took 3925ms
+2024-03-30 09:12:04.111 [info] Auto Sync: Triggered by Activity
+2024-03-30 09:12:04.111 [info] Sync started.
+2024-03-30 09:12:04.301 [info] Settings: No changes found during synchronizing settings.
+2024-03-30 09:12:04.311 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-30 09:12:04.318 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-30 09:12:04.321 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-30 09:12:04.323 [info] GlobalState: No changes found during synchronizing ui state.
+2024-03-30 09:12:04.361 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-30 09:12:04.362 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-30 09:12:04.363 [info] Sync done. Took 253ms

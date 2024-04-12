@@ -1,0 +1,3 @@
+2024-03-30 09:12:27.991 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/stickee/Documents/config/homeassistant/config/automations.yaml","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-03-30 09:12:28.283 [info] Started local extension host with pid 17525.
+2024-03-30 09:12:30.966 [info] [perf] Render performance baseline is 26ms

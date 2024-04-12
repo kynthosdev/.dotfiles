@@ -1,0 +1,4 @@
+2024-03-30 09:11:58.498 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/stickee/Documents/config/mosquitto/config/mosquitto.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-03-30 09:11:58.805 [info] Started local extension host with pid 17234.
+2024-03-30 09:11:59.079 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2024-03-30 09:12:01.905 [info] [perf] Render performance baseline is 48ms

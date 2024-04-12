@@ -8,19 +8,22 @@
             "file:///mnt/Kynthos%20Development/blbsr/src/frontend": "__default__profile__",
             "file:///mnt/Kynthos%20Development/blbsr": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1711782717653": "__default__profile__",
+            "1711782747690": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
     "telemetry.machineId": "3b62d45781a44677f6c5d00af19781b140aebfb9e01e20a0b10149d89996b84c",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///mnt/Kynthos%20Development/blbsr"
+                "backupFolder": "1711782747690"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -60,7 +63,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -122,6 +126,28 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/stickee/Documents/config/homeassistant/config/automations.yaml",
+                                        "path": "/home/stickee/Documents/config/homeassistant/config/automations.yaml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/config/homeassistant/config/automations.yaml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/stickee/Documents/config/mosquitto/config/mosquitto.conf",
+                                        "path": "/home/stickee/Documents/config/mosquitto/config/mosquitto.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/config/mosquitto/config/mosquitto.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -337,10 +363,6 @@
                         "label": "&&Close Editor"
                     },
                     {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
-                    },
-                    {
                         "id": "workbench.action.closeWindow",
                         "label": "Clos&&e Window"
                     },
@@ -383,13 +405,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -536,8 +556,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -550,8 +569,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -850,8 +868,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -859,7 +876,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -868,7 +886,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1188,7 +1207,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1364,7 +1384,6 @@
             },
             "workbench.action.openSettings": {
                 "label": "Ctrl+,",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+,"
             },
             "workbench.view.extensions": {
@@ -1384,11 +1403,6 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
-            },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1436,7 +1450,6 @@
             },
             "editor.action.commentLine": {
                 "label": "Ctrl+/",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+/"
             },
             "editor.action.blockComment": {
@@ -1522,12 +1535,10 @@
             },
             "workbench.action.zoomIn": {
                 "label": "Ctrl+=",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+="
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
@@ -1585,7 +1596,6 @@
             },
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+`"
             },
             "editor.action.toggleWordWrap": {
@@ -1594,7 +1604,6 @@
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1690,7 +1699,6 @@
             },
             "editor.action.jumpToBracket": {
                 "label": "Ctrl+Shift+\\",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+\\"
             },
             "editor.action.marker.nextInFiles": {
@@ -1751,7 +1759,6 @@
             },
             "workbench.action.terminal.new": {
                 "label": "Ctrl+Shift+`",
-                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+`"
             },
             "workbench.action.terminal.split": {
@@ -1789,21 +1796,20 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/Kynthos%20Development/blbsr",
-            "backupPath": "/home/stickee/.config/Code/Backups/81aca99649ab8decc6eb6c813d0ec299",
+            "backupPath": "/home/stickee/.config/Code/Backups/1711782747690",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 28,
-                "width": 1920,
-                "height": 1008
+                "width": 1536,
+                "height": 820
             }
         },
         "openedWindows": []

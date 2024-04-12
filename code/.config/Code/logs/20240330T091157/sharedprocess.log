@@ -1,0 +1,26 @@
+2024-03-30 09:11:59.500 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-30 09:12:03.036 [info] Getting Manifest... vue.volar
+2024-03-30 09:12:03.373 [info] Installing extension: vue.volar
+2024-03-30 09:12:04.525 [warning] Extension signature verification failed with error 'UnknownError': vue.volar
+2024-03-30 09:12:04.568 [info] Extracted extension to file:///home/stickee/.vscode/extensions/vue.volar-2.0.8: vue.volar
+2024-03-30 09:12:04.571 [info] Renamed to /home/stickee/.vscode/extensions/vue.volar-2.0.8
+2024-03-30 09:12:04.573 [info] Extracting extension completed. vue.volar
+2024-03-30 09:12:04.581 [info] Extension installed successfully: vue.volar
+2024-03-30 09:12:04.583 [info] Marked extension as uninstalled vue.volar-1.8.27
+2024-03-30 09:12:04.661 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/stickee/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
