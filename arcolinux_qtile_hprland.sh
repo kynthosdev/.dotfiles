@@ -97,7 +97,7 @@ egl-wayland
 libva-nvidia-driver
 
 # Browser
-firefox
+# brave-bin under paru_list
 
 # Core
 kitty
@@ -136,6 +136,7 @@ paru_list=(
 visual-studio-code-bin
 zsh-antidote
 figma-linux
+brave-bin
 )
 
 count=0
