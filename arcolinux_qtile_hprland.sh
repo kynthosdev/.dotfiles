@@ -61,6 +61,16 @@ func_install_paru() {
     fi
 }
 
+func_stow() {
+    	tput setaf 3
+    	echo "###############################################################################"
+    	echo "##################  Stowing configuration "  $1
+    	echo "###############################################################################"
+    	echo
+    	tput sgr0
+    	stow --adopt $1
+}
+
 ###############################################################################
 echo "Installation of the core software"
 ###############################################################################
@@ -101,6 +111,7 @@ libva-nvidia-driver
 
 # Core
 kitty
+alacritty
 stow
 bat
 zsh
@@ -139,6 +150,17 @@ figma-linux
 brave-bin
 )
 
+stow_list=(
+zsh
+nvim
+neofetch
+kitty
+qtile
+code
+alacritty
+)
+
+#################################################################################
 count=0
 
 for name in "${list[@]}" ; do
@@ -155,7 +177,33 @@ for name in "${paru_list[@]}" ; do
 	func_install_paru $name
 done
 
+count=0
+
+for name in "${stow_list[@]}" ; do
+	count=$[count+1]
+	tput setaf 3;echo "Stowing package nr.  "$count " " $name;tput sgr0;
+	func_stow $name
+done
 ###############################################################################
+
+tput setaf 5;echo "################################################################"
+echo "Installing packages from scripts"
+echo "################################################################"
+echo;tput sgr0
+sleep 2
+curl -fsSL https://get.pnpm.io/install.sh | sh -
+curl -sSL https://install.python-poetry.org | python3 -
+curl -fsSL https://ollama.com/install.sh | sh
+curl -sfL git.io/antibody | sh -s - -b /usr/local/bin
+
+##############################################################################
+
+tput setaf 5;echo "################################################################"
+echo "Restore git files after stow --adopt"
+echo "################################################################"
+echo;tput sgr0
+sleep 2
+git restore .
 
 tput setaf 5;echo "################################################################"
 echo "Enabling sddm as display manager"
@@ -179,6 +227,13 @@ sleep 2
 sudo systemctl enable bluetooth.service -f
 
 tput setaf 5;echo "################################################################"
+echo "Enabling docker"
+echo "################################################################"
+echo;tput sgr0
+sleep 2
+sudo systemctl enable docker.service -f
+
+tput setaf 5;echo "################################################################"
 echo "Setting up git global variables and ssh key"
 echo "################################################################"
 echo;tput sgr0
@@ -189,13 +244,36 @@ git config --global init.defaultBranch "main"
 ssh-keygen -t ed25519
 
 tput setaf 5;echo "################################################################"
-echo "Installing packages from scripts"
+echo "Bundle zsh plugins"
 echo "################################################################"
 echo;tput sgr0
 sleep 2
-curl -fsSL https://get.pnpm.io/install.sh | sh -
-curl -sSL https://install.python-poetry.org | python3 -
-curl -fsSL https://ollama.com/install.sh | sh
+antibody bundle < ~/.zsh_plugins.txt > ~/.zsh_plugins.sh
+
+tput setaf 5;echo "################################################################"
+echo "Setting up user groups"
+echo "################################################################"
+echo;tput sgr0
+sleep 2
+sudo usermod -aG libvirt $USER
+
+tput setaf 5;echo "################################################################"
+echo "Setting up mounts"
+echo "################################################################"
+echo;tput sgr0
+sleep 2
+echo "UUID=d80ce190-f301-4628-a9e3-26c30ca2421f /mnt              ext4    defaults,noatime 0 1" | sudo tee -a /etc/fstab
+
+tput setaf 5;echo "################################################################"
+echo "Setting up zsh"
+echo "################################################################"
+echo;tput sgr0
+sleep 2
+command -v zsh | sudo tee -a /etc/shells
+antibody bundle < ~/.zsh_plugins.txt > ~/.zsh_plugins.sh
+
+# Keep this last in this file
+sudo chsh -s $(which zsh) $USER
 
 tput setaf 7;echo "################################################################"
 echo "You now have a very minimal functional desktop"
