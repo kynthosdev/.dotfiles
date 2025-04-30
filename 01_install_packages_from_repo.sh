@@ -2,7 +2,7 @@ echo Install packages and dependencies from repos........
 sleep 3
 sudo pacman --noconfirm -Sy \
 	pipewire-audio pipewire-alsa pipewire-pulse pipewire-jack \
-  plasma-desktop sddm neofetch \
+  plasma-desktop sddm neofetch rclone \
   bluedevil plasma-nm plasma-pa kdegraphics-thumbnailers ffmpegthumbs kwallet-pam dolphin trash-cli xclip lib32-nvidia-utils nvtop \
 	picom stow bat zsh neovim unzip flameshot \
 	ttf-meslo-nerd-font-powerlevel10k ttf-roboto ttf-jetbrains-mono-nerd \

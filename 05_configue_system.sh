@@ -8,7 +8,10 @@ stow --adopt \
   	dolphin \
 	neofetch \
   	code \
-	paru
+	paru \
+	allacritty \
+	optimus-manager \
+	rclone
 
 # Git global settings
 echo "Set git global settings ...."
