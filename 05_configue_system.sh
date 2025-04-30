@@ -46,6 +46,8 @@ sudo systemctl enable docker.service
 echo "Add user to groups ...."
 sleep 2
 sudo usermod -aG libvirt $USER
+sudo usermod -aG docker $USER
+sudo usermod -aG gamemode $USER
 
 # This is specific to devices - find script that mounts based on available devices 
 echo "Mount storage device ..."
