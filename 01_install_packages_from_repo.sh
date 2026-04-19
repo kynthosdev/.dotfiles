@@ -18,27 +18,27 @@ define_packages() {
     # Package list - organized by category for easy maintenance
     PACKAGE_LIST=(
         # Audio and Multimedia
-        pipewire-audio
-        pipewire-alsa
-        pipewire-pulse
-        pipewire-jack
+        # pipewire-audio
+        # pipewire-alsa
+        # pipewire-pulse
+        # pipewire-jack
 
         # Desktop Environment (KDE Plasma)
-        plasma-desktop
-        sddm
+        # plasma-desktop
+        # sddm
         neofetch
-        rclone
+        # rclone
 
         # KDE Utilities
-        bluedevil
-        plasma-nm
-        plasma-pa
-        kdegraphics-thumbnailers
-        ffmpegthumbs
-        kwallet-pam
-        dolphin
-        trash-cli
-        xclip
+        # bluedevil
+        # plasma-nm
+        # plasma-pa
+        # kdegraphics-thumbnailers
+        # ffmpegthumbs
+        # kwallet-pam
+        # dolphin
+        # trash-cli
+        # xclip
 
         # System Utilities
         picom
@@ -61,9 +61,9 @@ define_packages() {
         x11-ssh-askpass
 
         # Gaming
-        steam
-        gamemode
-        lib32-gamemode
+        # steam
+        # gamemode
+        # lib32-gamemode
 
         # Development Tools
         nodejs-lts-iron
@@ -73,7 +73,7 @@ define_packages() {
 
         # Productivity
         freecad
-        obsidian
+        # obsidian
     )
 
     log_message "Defined ${#PACKAGE_LIST[@]} packages for installation"
